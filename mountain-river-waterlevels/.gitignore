@@ -96,3 +96,6 @@ desktop.ini
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+#
+.github/
