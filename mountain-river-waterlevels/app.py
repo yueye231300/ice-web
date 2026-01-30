@@ -230,7 +230,7 @@ def main():
     st.markdown("---")
     st.markdown(
         "<div style='text-align: center; color: gray;'>"
-        "Mountain River Virtual Water Level Measurement System | "
+        "Highland River Virtual Water Level Measurement System | "
         "</div>",
         unsafe_allow_html=True,
     )

@@ -201,7 +201,7 @@ def render_water_level_visualization():
     """
     渲染水位可视化界面
     """
-    st.header("高山河流虚拟水位测站")
+    st.header("高原河流虚拟水位测站")
 
     if not st.session_state.data_processed:
         st.warning("请先完成数据处理")
