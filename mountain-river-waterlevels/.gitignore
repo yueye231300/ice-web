@@ -97,5 +97,7 @@ desktop.ini
 .dmypy.json
 dmypy.json
 
-#
+# Documentation
+/docs
+# .github folder 
 .github/

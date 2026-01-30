@@ -1,5 +1,5 @@
 """
-高山河流虚拟水位测量系统
+高原河流虚拟水位测量系统
 Mountain River Virtual Water Level Measurement System
 
 基于 ICESat-2 卫星激光测高数据的河流水位监测系统
@@ -46,7 +46,7 @@ def initialize_session():
 
 # 页面配置
 st.set_page_config(
-    page_title="高山河流虚拟水位测量",
+    page_title="高原河流虚拟水位测量",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -54,7 +54,7 @@ st.set_page_config(
 
 def render_header():
     """渲染页面头部"""
-    st.title("高山河流虚拟水位测量系统")
+    st.title("高原河流虚拟水位测量系统")
     st.markdown(
         """
     基于 **ICESat-2** 卫星激光测高数据的河流水位监测系统。
